@@ -24,6 +24,7 @@ aka dagezi (大个子)
 - 終わる運命の WebSQL (でも Jerrybeanじゃ..)
 - WebViewでも WebViewと感じさせない反応！
 
+
 という話は人気なさそうなのでよします。
 
 
@@ -35,7 +36,7 @@ aka dagezi (大个子)
 
 
 
-## Androidが Travis CIの一級市民に！
+## Androidが Travis CIの一級市民βに！
 
 [Androidサポートがβ版に！](http://blog.travis-ci.com/2014-05-07-android-build-support-now-in-beta/)
 
@@ -53,6 +54,7 @@ language: android
 ```
 
 - すでにいろんな Versionの platformが準備されてる！
+  19,18,17,16,15,10
 - Maven, Gradle, Antを自動判別！
 
 
@@ -79,6 +81,8 @@ before_script:
 ## これだけ！
 
 予想以上に簡単だった。
-自分のプロジェクトも 10分ぐらいで対応できた。
+[自分のプロジェクト](https://github.com/dagezi/GoClock) も 10分ぐらいで対応できた。
 
 
+
+## おわってしまった。
